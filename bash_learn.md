@@ -3,7 +3,7 @@
 #### Expansion  
   ##### Path Expansion  
   **`echo *`** shows all files/directories in a current dir   
-  **`ls .[!.]*`** shows only hiden files in a directory.   
+  `ls .[!.]*` shows only hiden files in a directory.   
   ##### Tilde Expansion  
   ** * ~ * ** - expands into home directory of a named user, or if no user is named, into home dir of current user.  
   ##### Arithmetic Expansion  
