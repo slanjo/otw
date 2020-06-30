@@ -9,8 +9,8 @@
   ##### Arithmetic Expansion  
   ** *$((expression))* ** - this will be used as a calc so $(( 2 + 2))  
   ** Double Parens are used for Arithmetic expression. We can nest subexpressions using single parens as:  
-  ** * `echo $(($((5 \*\* 2) \* 3))` 
-  ** * Operators * ** +, -, \*, /, %, \*\* (exponentiantion)  
+  ***`echo $(($((5 \*\* 2) \* 3))`*** 
+   ***Operators*** +, -, \*, /, %, \*\* (exponentiantion)  
   #####  Brace Expansion
   Can create multiple text strings from a pattern containing braces:  
   ```
@@ -27,8 +27,8 @@
   ```  
   #### Quoting
    ***Double Quoting*** all special characters within double quotes are suppressed except for the back-quotes(`), $, and \ (backslash)  
-  ** this means word-splitting, pathname expansion, tilde expansion, and brace expansion are suppressed, but parameter expansion  
+  **this means word-splitting, pathname expansion, tilde expansion, and brace expansion are suppressed, but parameter expansion  
   arithmetic expansion, and command substitution are still carried out. 
-  ** *Sintle Quoting* ** suppresses all expansion  
+  ***Single Quoting*** suppresses all expansion  
   
 
