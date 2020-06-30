@@ -7,7 +7,7 @@
   ##### Tilde Expansion  
   ** * ~ * ** - expands into home directory of a named user, or if no user is named, into home dir of current user.  
   ##### Arithmetic Expansion  
-  ** * $((expression)) * ** - this will be used as a calc so $(( 2 + 2))  
+  ** *$((expression))* ** - this will be used as a calc so $(( 2 + 2))  
   ** Double Parens are used for Arithmetic expression. We can nest subexpressions using single parens as:  
   ** * 'echo $(($((5 \*\* 2) \* 3))' 
   ** * Operators * ** +, -, \*, /, %, \*\* (exponentiantion)  
