@@ -19,7 +19,7 @@
   01 02 03 04 05 06 07 08 09 10
   '''
   #### Parameter Expansion  
-  ** 'echo $http_proxy' expands to the value of the variable  
+  **'echo $http_proxy' expands to the value of the variable  
   ** We can use $ combined with parens for ** Command Expansion **  like so:  
   '''
   slanjo@~:$ ls -ahl $(which ls)
