@@ -26,7 +26,7 @@
   -rwxr-xr-x 1 root root 136K Feb 28  2019 /usr/bin/ls
   ```  
   #### Quoting
-  ** *Double Quoting* ** all special characters within double quotes are suppressed except for the back-quotes(`), $, and \ (backslash)  
+  * **Double Quoting** * all special characters within double quotes are suppressed except for the back-quotes(`), $, and \ (backslash)  
   ** this means word-splitting, pathname expansion, tilde expansion, and brace expansion are suppressed, but parameter expansion  
   arithmetic expansion, and command substitution are still carried out. 
   ** *Sintle Quoting* ** suppresses all expansion  
