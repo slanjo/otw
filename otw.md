@@ -19,14 +19,14 @@
   ```
   -----
   ### *Bandit 7*
-   ***Solutio **  grep -Rn millionth  
-    *Bandit 8 password cvX2JJa4CFALtqS87jk27qwqGhBM9plV  
+  ***Solution***  grep -Rn millionth  
+  Bandit 8 password cvX2JJa4CFALtqS87jk27qwqGhBM9plV  
   ```
   ```
   -----
   ### {*Bandit 8*
   **Solution**  sort data.txt | uniq -u  
-  *  password UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR  
+  password UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR  
   ```
   ```
   -----
