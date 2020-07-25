@@ -31,7 +31,7 @@
   arithmetic expansion, and command substitution are still carried out. 
   ***Single Quoting*** suppresses all expansion  
   
------
+  -----
   ##### tmux cop/paste from vim panes **
   -----
     * ** **
