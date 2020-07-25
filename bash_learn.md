@@ -31,4 +31,44 @@
   arithmetic expansion, and command substitution are still carried out. 
   ***Single Quoting*** suppresses all expansion  
   
+-----
+  ##### tmux cop/paste from vim panes **
+  -----
+    * ** **
+  ```
+  ctrl-b - [ to enter tmux copy mode > 
+  "space" to enter tmux select mode > use emacs/vim select commands > Enter (to copy)  
+  > switch to other pane > enter vim instert mode "shift-i or i"
+  ctrl-b - ] to paste > enter 
+  ```
+  -----
+  ### *vim visual-block mode*
+  -----
+    * **help visual-block, :help visual-operators, :help blockwise-operators**  
+  ```
+  ```
+  -----
+  ### **
+  -----
+    * ** **
+  ```
+  ```
+  -----
+  ### **
+  -----
+    * ** **
+  ```
+  ```
+  -----
+  ### **
+  -----
+    * ** **
+  ```
+  ```
+  -----
+  ### **
+  -----
+    * ** **
+  ```
+  ```
 
