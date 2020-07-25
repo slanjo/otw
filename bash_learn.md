@@ -33,7 +33,6 @@
   
   -----
   ##### tmux cop/paste from vim panes **
-  -----
     * ** **
   ```
   ctrl-b - [ to enter tmux copy mode > 
